@@ -1,4 +1,4 @@
-package datastructure.Inheritance;
+package datastructure.inheritance;
 
 public class Sub_class extends Super_class {
     int num = 10;

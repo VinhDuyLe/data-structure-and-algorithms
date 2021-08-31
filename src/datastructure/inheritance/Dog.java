@@ -1,4 +1,4 @@
-package datastructure.Inheritance;
+package datastructure.inheritance;
 interface Animal{}
 class Mamal implements Animal{}
 

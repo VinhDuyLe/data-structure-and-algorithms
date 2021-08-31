@@ -1,4 +1,4 @@
-package datastructure.Inheritance;
+package datastructure.inheritance;
 
 public class Subclass_constructor extends Superclass_constructor {
 

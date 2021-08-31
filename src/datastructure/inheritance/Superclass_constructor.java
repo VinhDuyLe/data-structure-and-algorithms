@@ -1,4 +1,4 @@
-package datastructure.Inheritance;
+package datastructure.inheritance;
 
 class Superclass_constructor {
     int age;

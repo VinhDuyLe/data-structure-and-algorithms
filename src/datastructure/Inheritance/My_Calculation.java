@@ -12,5 +12,12 @@ public class My_Calculation extends Calculation {
         demo.addition(a,b);
         demo.subtraction(a,b);
         demo.multiplication(a,b);
+
+        //inherit fields, methods, nested class
+        // not inherit Constructors, demo2 could not use multiplication method
+
+        Calculation demo2 = new Calculation();
+        demo2.addition(a,b);
+        demo2.subtraction(a,b);
     }
 }

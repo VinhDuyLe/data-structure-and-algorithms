@@ -10,6 +10,7 @@ public class SortedSetDemo {
         set.add("b");
         set.add("c");
         set.add("a");
+        System.out.println("TreeSet elements " + set);
 
         Iterator i = set.iterator(); //same Enumerations in Java Collection Framework
         while(i.hasNext()) {   //true if has next value
